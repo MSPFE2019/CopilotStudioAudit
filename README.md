@@ -1,5 +1,3 @@
-Here's a GitHub-ready README.md that describes both scripts and their purpose.
-
 # Copilot Studio Identity Audit Toolkit
 
 PowerShell tools for discovering, inventorying, and auditing Microsoft Copilot Studio identities in Microsoft Entra ID.
